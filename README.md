@@ -1,5 +1,5 @@
 # glowing_ceiling_stars
-Simple 3d printed stars that glow with a ws2812b inside them. Powered by an Arduino.
+Simple 3d printed stars that glow with a ws2812b inside them. Powered by an Arduino. I wasn't allowed to drill into the ceiling and run wires that way, so I went with flat speaker wires from monoprice. It kind of worked :). I've got some ideas to try for version 2. I liked how the stars glowed but the assembly and sticking everying to the ceiling in one go was super painful. Plus the flat wire didn't work very well with the textured ceiling.
 
 # Materials
 
